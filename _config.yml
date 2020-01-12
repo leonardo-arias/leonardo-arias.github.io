@@ -1,1 +1,11 @@
+# basic options
+title: Leonardo Arias
+author: leonardo-arias
+email: leoarias2@gmail.com
+description: Personal site
+twitter_username: LeoArias_A
+github_username:  leonardo-arias
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-cayman
